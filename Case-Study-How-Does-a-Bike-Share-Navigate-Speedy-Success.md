@@ -155,7 +155,7 @@ A description of all data sources used
 
 1.What is your final conclusion based on your analysis?
 
-*AS we can see in last figure in documentation about the day which they use more bike, on average they take more ride on Saturday and Sunday compare to  usual days.*
+*AS we can see in last figure in presentation about the day which they use more bike, on average they take more ride on Saturday and Sunday compare to  usual days.*
 
 2.How could your team and business apply your insights?
 
