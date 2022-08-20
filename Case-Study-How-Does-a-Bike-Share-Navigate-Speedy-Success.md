@@ -98,15 +98,19 @@ A description of all data sources used
 ### Guiding questions
 
 1.How should you organize your data to perform analysis on it?
+
 *we should organize data by formatting data in same data type or to say have same variables*
 
 2.Has your data been properly formatted?
+
 *yes*
 
 3.What surprises did you discover in the data?
+
 *One of the key surprise is that the members are the majority user of the cyclistic*
 
 4.What trends or relationships did you find in the data?
+
 * Members use more bike then the casual
 * Members use less riding time 
 
@@ -120,44 +124,47 @@ A description of all data sources used
 ### Guiding questions
 
 1. Were you able to answer the question of how annual members and casual riders use Cyclistic bikes differently?
+
 *Yes
 
 2. What story does your data tell?
-*My data tells that the casual riders are less likely to use bike compare to members, they both are more likely to use at 17:00 at evening*  
 
-
-
-
-
+*My data tells that the casual riders are less likely to use bike compare to members, they both are more likely to use at 17:00 at evening* 
 
 3. How do your findings relate to your original question?
+
 *One of my findings speaks about the time duration when they both use, the casual rider use it for longer duration where as the member use bike for consistently everyday, we can see that visualization on documentation of this case study.*
 
 
 
 4. Who is your audience? What is the best way to communicate with them?
+
 *my audience's are Lilly Moreno, Cyclistic Executive team are my audience to communicate with them i will give them presentation of my findings.* 
 
 5. Can data visualization help you share your findings?
+
 *yes*
 
 6. Is your presentation accessible to your audience
+
 *the visualization in presentation are understandable in a way that audience can understand the story data is focussing on, we can see that in presentation of the case study.*
 
 ## Act Phase
 
 ### Guiding questions
 
-● What is your final conclusion based on your analysis?
+1.What is your final conclusion based on your analysis?
+
 *AS we can see in last figure in documentation about the day which they use more bike, on average they take more ride on Saturday and Sunday compare to  usual days.*
 
-● How could your team and business apply your insights?
+2.How could your team and business apply your insights?
+
 *Team can advertise our annual membership plan on weekends by offering free ride and explain it to them the benefit about taking the annual member plan.*
 
+3.What next steps would you or your stakeholders take based on your findings?
 
-● What next steps would you or your stakeholders take based on your findings?
 *They could lower the price of annual member plan for new users for limited time period and they could advertise about it in smaller to medium scale in effective way*
 
+4.Is there additional data you could use to expand on your findings?
 
-● Is there additional data you could use to expand on your findings
-*Data like the docked bike vs electric bike we can use that data to take a survey where we can ask them ask questions like what they prefer more docked bike electric bike or any other type of bike*  
+*Data like the docked bike vs electric bike we can use that data to take a survey where we can ask them ask questions like what they prefer more docked bike electric bike or any other type of bike*
