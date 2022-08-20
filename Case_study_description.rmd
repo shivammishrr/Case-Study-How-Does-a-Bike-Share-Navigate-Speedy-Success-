@@ -13,9 +13,6 @@ output: html_document
 
 *Cyclistic bike-share company in Chicago wants to maximize the number of annual memberships and they want to convert casual riders into annual members.*
 
-
-
-
 2. How can your insights drive business decisions?
 
 *While thinking of how the casual riders and annual riders use bike differently, if majority of Casual riders use it for leisure so if they're using it for almost everyday the company can give a lucrative offer for extended time period for people like them.*
